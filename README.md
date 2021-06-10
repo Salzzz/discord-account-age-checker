@@ -1,4 +1,4 @@
-# discord-account-age-checker
+# Discord Account Age Checker
 
 Checks the age of discord accounts and kicks them from the server in case they are too young.
 
